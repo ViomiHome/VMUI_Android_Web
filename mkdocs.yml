@@ -1,0 +1,49 @@
+site_name: VMUI_Android_Web
+site_description: 'VMUI_Android_Web'
+site_author: 'VIOMI'
+site_url: 'https://viomihome.github.io/VMUI_Android_Web/'
+repo_name: 'ViomiHome/VMUI_Android_Web'
+repo_url: 'https://github.com/ViomiHome/VMUI_Android_Web'
+copyright: 'Copyright © 2019 Viomi. All rights reserved.'
+theme:
+  name: 'material'
+  include_search_page: false
+  search_index_only: true
+  palette:
+    primary: 'Cyan'
+    accent: 'Cyan'
+  logo: 'images/logo.svg'
+  favicon: 'images/favicon-32x32-next.png'
+  font:
+    text: Roboto
+    code: Roboto Mono
+  language: zh
+  direction: ltr
+  feature:
+    tabs: true
+pages:
+ - VMUI:
+    - index: index.md
+    - Colors: Colors.md
+    - Buttons: Buttons.md
+    - NavBar: NavBar.md
+    - Tabs: Tabs.md
+    - NoticeBar: NoticeBar.md
+    - TabBar: TabBar.md
+    - Segment: Segment.md
+    - Dialog: Dialog.md
+    - TextDialog: TextDialog.md
+    - Picker: Picker.md
+    - MultiPicker: MultiPicker.md
+    - LocationPicker: LocationPicker.md
+    - DatePicker: DatePicker.md
+    - Popup: Popup.md
+    - ActionSheet: ActionSheet.md
+    - ShareSheet: ShareSheet.md
+    - Toast: Toast.md
+    - SearchBar: SearchBar.md
+    - EmptyPage: EmptyPage.md
+    - LoadingPage: LoadingPage.md
+    - ItemView: ItemView.md
+    
+    
