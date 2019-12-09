@@ -4,7 +4,7 @@ date: 2019-12-02 16:06:11
 tags:
 ---
 
-VMUI-android:云米 Android app UI组件库  
+VMUI-Android:云米 Android app UI组件库  
 
 demo源码：[VMUI-android](https://github.com/ViomiHome/VMUI_Android)  
 
