@@ -5,8 +5,8 @@ site_url: 'https://viomihome.github.io/VMUI_Android_Web/'
 repo_name: 'VMUI Android'
 repo_url: 'https://github.com/ViomiHome/VMUI_Android_Web'
 copyright: 'Copyright © 2019 Viomi. All rights reserved.'
-site_dir：'docs/'
-docs_dir: 'source'
+site_dir: docs
+docs_dir: source
 theme:
   name: 'material'
   include_search_page: false
