@@ -1,4 +1,4 @@
-site_name: VMUI Android
+site_name: 云米标准UI组件库VMUI Android
 site_description: 'VMUI Android'
 site_author: 'VIOMI'
 site_url: 'https://viomihome.github.io/VMUI_Android_Web/'
@@ -26,7 +26,7 @@ theme:
 
 pages:
  - VMUI:
-    - index: index.md
+    - 使用指引: index.md
     - Colors: Colors.md
     - Buttons: Buttons.md
     - NavBar: NavBar.md
