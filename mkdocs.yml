@@ -14,8 +14,8 @@ theme:
   palette:
     primary: 'Cyan'
     accent: 'Cyan'
-  logo: 'source/images/logo.svg'
-  favicon: 'source/images/favicon-32x32-next.png'
+  logo: 'images/logo.svg'
+  favicon: 'images/favicon-32x32-next.png'
   font:
     text: Roboto
     code: Roboto Mono
