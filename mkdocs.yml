@@ -1,4 +1,4 @@
-site_name: 云米标准UI组件库VMUI Android
+site_name: VMUI Android（云米UI组件库）
 site_description: 'VMUI Android'
 site_author: 'VIOMI'
 site_url: 'https://viomihome.github.io/VMUI_Android_Web/'
@@ -14,8 +14,8 @@ theme:
   palette:
     primary: 'Cyan'
     accent: 'Cyan'
-  logo: 'docs/images/logo.svg'
-  favicon: 'docs/images/favicon-32x32-next.png'
+  logo: 'source/images/logo.svg'
+  favicon: 'source/images/favicon-32x32-next.png'
   font:
     text: Roboto
     code: Roboto Mono
