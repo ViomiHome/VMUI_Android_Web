@@ -8,7 +8,7 @@ VMUI-Android:云米 Android app UI组件库
 
 demo源码：[VMUI-android](https://github.com/ViomiHome/VMUI_Android)  
 
-demo apk :[demo apk](https://github.com/ViomiHome/VMUI_Android_Web/blob/gh-pages/vmui.apk?raw=true)
+demo apk :[demo apk](https://fir.im/vmui)
 
 #### 集成步骤
 
