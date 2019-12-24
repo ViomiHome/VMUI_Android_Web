@@ -25,5 +25,5 @@ allprojects {
 2.在dependencies中加入
 
 ```
-api 'com.viomi.vmui_android:viomi-vmui_android-lib:1.0.1'
+api 'com.viomi.vmui_android:viomi-vmui_android-lib:1.0.5'
 ```
