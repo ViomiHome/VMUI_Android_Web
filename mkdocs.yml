@@ -48,5 +48,6 @@ pages:
     - EmptyPage: EmptyPage.md
     - LoadingPage: LoadingPage.md
     - ItemView: ItemView.md
-    
-    
+    - InputItemView: InputItemview.md
+    - InputArea: InputArea.md
+    - Loading: Loading.md
